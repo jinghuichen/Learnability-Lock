@@ -1,2 +1,2 @@
 # Learnability-Lock
-This is the official code for our paper [Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations](https://openreview.net/forum?id=6VpeS27viTq)
+This is the official code for our paper [Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations](https://openreview.net/forum?id=6VpeS27viTq), accepted at ICLR 2022.
