@@ -11,6 +11,11 @@ Refer to QuickStart notebook to generate unlearnable examples on CIFAR10.
 ### Usage
 For i-Resnet block based lock, initialize using:
 ```
+// customize the params following QuickStart
+params = {'in_shape':32, 
+               'n_channel':3, 
+               'n_class':10,
+               'mid_planes':32}
 lock = iResLock(lock_params = params, epsilon=<>)
 ```
 Linear transformation lock:
