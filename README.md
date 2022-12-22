@@ -8,3 +8,8 @@ Refer to QuickStart notebook to generate unlearnable examples on CIFAR10.
  - Pytorch
  - Numpy
 
+### Usage
+For i-Resnet block based lock, initialize using:
+```
+lock = iResLock(lock_params = params, epsilon=<>)
+```
