@@ -13,3 +13,7 @@ For i-Resnet block based lock, initialize using:
 ```
 lock = iResLock(lock_params = params, epsilon=<>)
 ```
+Linear transformation lock:
+```
+lock = LinearLock(lock_params = params, epsilon=<>)
+```
